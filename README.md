@@ -2,7 +2,12 @@
 
 A comprehensive review management system for Flex Living properties that integrates with Hostaway API and provides a modern dashboard for managers to review and approve guest feedback.
 
-## 🚀 Features
+## � Documentation
+
+- **[Technical Documentation](./TECHNICAL_DOCUMENTATION.md)**: Comprehensive technical overview including tech stack, design decisions, API behaviors, and Google Reviews integration findings
+- **Setup Instructions**: See below for local development and deployment guides
+
+---
 
 - **Manager Dashboard**: Review, filter, and approve guest reviews
 - **Property Overview**: Summary statistics for each property
